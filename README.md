@@ -9,7 +9,7 @@
 
 - :penguin: **Linux and Open Source fan**
 
-- 👨‍💻 All of my projects are available at [Github Pinned Repositories](Github Pinned Repositories)
+- 👨‍💻 All of my projects are available at **Github Pinned Repositories**
 
 - 💬 Ask me about **anything**
 
