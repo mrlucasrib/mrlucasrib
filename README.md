@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📄 Know about my experiences [[Linkedin Profile](https://www.linkedin.com/in/mrlucasrib/)]([Linkedin Profile](https://www.linkedin.com/in/mrlucasrib/))
+- 📄 Know about my experiences [Linkedin Profile](https://www.linkedin.com/in/mrlucasrib/)
 
 - ⚡ Fun fact **I've been learning about software development since 2014 (I was 14 when I started)**
 
